@@ -1,2 +1,1 @@
-# MyPythonProjects
-This Repository Contains All My personal projects / codes in Python
+This repository is for general discussion or study of all my projects.
